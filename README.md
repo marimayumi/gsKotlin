@@ -1,4 +1,4 @@
-# INTEGANTES
+# INTEGRANTES
 Eduardo Santos RM 96042
 
 Mariana Mayumi RM 95533
